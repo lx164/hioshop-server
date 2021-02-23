@@ -4,9 +4,6 @@
 + 测试数据来自上述开源项目
 + 服务端api基于Ｎode.js+ThinkJS+MySQL
 
-### 目前基于海风小店已经上线的几款微信小程序商城
-<img width="1400" src="http://git.hiolabs.com/miniapp.jpg"/>
-
 ### 视频教程
 https://www.bilibili.com/video/av89567916
 
@@ -14,8 +11,6 @@ https://www.bilibili.com/video/av89567916
 微信小程序项目：GitHub: https://github.com/iamdarcy/hioshop-miniprogram  
 管理后台项目：GitHub: https://github.com/iamdarcy/hioshop-admin
 
-<a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=zm04niet"><img width="1400" src="http://git.hiolabs.com/aliyun.jpg"/></a>
-阿里云主机优惠季<a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=zm04niet">立即去看看</a>
 
 ### 本地开发环境配置
 + 克隆项目到本地
@@ -97,7 +92,7 @@ npm start
 ### 最近更新 
 - 新增生成分享图的功能  
 在src/common/config/config.js需要设置好已经开通https的七牛bucket的参数
-<img width="1000" src="http://git.hiolabs.com/github/save-local.jpg"/>
+<img width="1000" src="https://cdn.jsdelivr.net/gh/LiangSenCheng/blog-img/img/save-local.jpg"/>
 
 - 项目地址  
 服务端： https://github.com/iamdarcy/hioshop-server  
